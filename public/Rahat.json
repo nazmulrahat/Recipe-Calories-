@@ -1,0 +1,58 @@
+
+
+[
+    {
+        "image": "https://i.ibb.co.com/P1YMrLb/Chicken-Stir-Fry.jpg",
+        "id": "001",
+        "name": "Chicken Stir Fry",
+        "short_description": "A quick and delicious stir fry with tender chicken and fresh vegetables.",
+        "ingredients": ["550 g chicken", "120 ml soy sauce", "200 g bell peppers", "100 g broccoli", "2 tsp ginger", "2 garlic cloves"],
+        "preparing_time": "30 min",
+        "calories": "320 calories"
+    },
+    {
+        "image": "https://i.ibb.co.com/Ry9GbmV/Spaghetti-Bolognese.png",
+        "id": "002",
+        "name": "Spaghetti Bolognese",
+        "short_description": "Classic Italian pasta dish with a rich meat sauce.",
+        "ingredients": ["300 g spaghetti", "500 g minced beef", "400 g tomatoes", "1 onion", "2 garlic cloves", "1 tsp oregano"],
+        "preparing_time": "45 min",
+        "calories": "600 calories"
+    },
+    {
+        "image": "https://i.ibb.co.com/1qXVFZM/Veggie-Tacos.jpg",
+        "id": "003",
+        "name": "Veggie Tacos",
+        "short_description": "Flavorful tacos loaded with fresh vegetables and spices.",
+        "ingredients": ["8 corn tortillas", "200 g black beans", "100 g corn", "1 avocado", "50 g cilantro", "1 lime"],
+        "preparing_time": "20 min",
+        "calories": "250 calories"
+    },
+    {
+        "image": "https://i.ibb.co.com/DKqSs59/Fluffy-Pancakes.jpg",
+        "id": "004",
+        "name": "Fluffy Pancakes",
+        "short_description": "Light and fluffy pancakes perfect for breakfast.",
+        "ingredients": ["200 g flour", "2 eggs", "300 ml milk", "50 g sugar", "1 tsp baking powder", "1 tsp vanilla extract"],
+        "preparing_time": "20 min",
+        "calories": "350 calories"
+    },
+    {
+        "image": "https://i.ibb.co.com/t3mBHCN/Greek-Salad.jpg",
+        "id": "005",
+        "name": "Greek Salad",
+        "short_description": "A refreshing salad with tomatoes, cucumbers, and feta cheese.",
+        "ingredients": ["200 g tomatoes", "150 g cucumbers", "100 g feta cheese", "50 g olives", "1 onion", "2 tbsp olive oil"],
+        "preparing_time": "15 min",
+        "calories": "180 calories"
+    },
+    {
+        "image": "https://i.ibb.co.com/ckXDzrk/Chocolate-Cake.jpg",
+        "id": "006",
+        "name": "Chocolate Cake",
+        "short_description": "Decadent chocolate cake that melts in your mouth.",
+        "ingredients": ["200 g flour", "100 g cocoa powder", "250 g sugar", "3 eggs", "200 ml milk", "1 tsp baking powder"],
+        "preparing_time": "60 min",
+        "calories": "450 calories"
+    }
+]
